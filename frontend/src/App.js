@@ -5,7 +5,7 @@ const App = ()=>{
   return (
     <>
     <h1>
-      Hello World
+      First App in Note App
     </h1>
     </>
   )
