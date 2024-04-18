@@ -1,0 +1,17 @@
+{
+  "name": "noteapp",
+  "version": "1.0.0",
+  "description": "here is the node and react app",
+  "main": "backend/index.js",
+  "scripts": {
+    "start": "node backend/index.js",
+    "dev": "nodemon backend/index.js"
+  },
+  "author": "Biswajit Nayak",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
